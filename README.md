@@ -10,4 +10,48 @@ Luckily, Beks has come preparred.  She comes armed with a massive CSV file conta
 
 ## Results
 
+### Data Preprocessing
+
+* What variable(s) are considered the target(s) for your model?
+
+* What variable(s) are considered to be the features for your model?
+
+* What variable(s) are neither targets nor features, and should be removed from the input data?
+
+### Compiling, Training, and Evaluating the Model
+
+![Original Results](https://github.com/Jeffstr00/Neural_Network_Charity_Analysis/blob/main/Resources/orig_results.png)
+
+#### Optimization Attempt #1
+
+![Optimization Attempt #1: Feature Importance](https://github.com/Jeffstr00/Neural_Network_Charity_Analysis/blob/main/Resources/opt1_feature_importance.png)
+
+![Optimization Attempt #1 Results](https://github.com/Jeffstr00/Neural_Network_Charity_Analysis/blob/main/Resources/opt1_results.png)
+
+#### Optimization Attempt #2
+
+![Optimization Attempt #2: Activation Functions](https://github.com/Jeffstr00/Neural_Network_Charity_Analysis/blob/main/Resources/opt2_activation.png)
+
+![Optimization Attempt #2 Results](https://github.com/Jeffstr00/Neural_Network_Charity_Analysis/blob/main/Resources/opt2_results.png)
+
+#### Optimization Attempt #3
+
+![Optimization Attempt #3: Number of Nodes](https://github.com/Jeffstr00/Neural_Network_Charity_Analysis/blob/main/Resources/opt3_nodes.png)
+
+![Optimization Attempt #3 Results](https://github.com/Jeffstr00/Neural_Network_Charity_Analysis/blob/main/Resources/opt3_results.png)
+
+#### Optimization Attempt #4
+
+![Optimization Attempt #4: Feature Importance](https://github.com/Jeffstr00/Neural_Network_Charity_Analysis/blob/main/Resources/opt4_layer.png)
+
+![Optimization Attempt #4 Results](https://github.com/Jeffstr00/Neural_Network_Charity_Analysis/blob/main/Resources/opt4_results.png)
+
+* How many neurons, layers, and activation functions did you select for your neural network model, and why?
+
+* Were you able to achieve the target model performance?
+
+* What steps did you take to try and increase model performance?
+
 ## Summary
+
+Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and explain your recommendation.
